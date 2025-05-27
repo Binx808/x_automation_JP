@@ -1,4 +1,3 @@
-// TwitterPostManager.gs
 // 投稿生成・X（Twitter）投稿管理クラス
 class TwitterPostManager {
   constructor() {
