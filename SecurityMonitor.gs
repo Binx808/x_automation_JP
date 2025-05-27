@@ -1,4 +1,3 @@
-// SecurityMonitor.gs
 // セキュリティ監視クラス
 class SecurityMonitor {
   static detectUnauthorized(requestCount) {
