@@ -1,4 +1,3 @@
-// ErrorMonitor.gs
 // エラー通知・ログ管理クラス
 class ErrorMonitor {
   static logError(error) {
