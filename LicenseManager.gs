@@ -1,4 +1,3 @@
-// LicenseManager.gs
 // ライセンス認証・制限管理クラス
 class LicenseManager {
   constructor() {
