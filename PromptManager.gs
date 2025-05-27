@@ -1,4 +1,3 @@
-// PromptManager.gs
 // プロンプト管理クラス
 class PromptManager {
   constructor() {
