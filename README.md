@@ -1,4 +1,4 @@
-# X自動投稿ツール
+# X自動投稿ツール概要
 
 Google Apps Script（GAS）とGoogleスプレッドシートを活用した、X（旧Twitter）自動投稿ツール（MVP）
 
