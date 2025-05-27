@@ -1,4 +1,3 @@
-// Init.gs
 // スプレッドシート初期化・自動投稿・スケジュール管理
 
 function initializeSpreadsheet() {
