@@ -1,5 +1,5 @@
 // Api.gs
-// APIエンドポイント
+// APIエンドポイント（doPost）定義
 function doPost(e) {
   const params = JSON.parse(e.postData.contents);
   const licenseManager = new LicenseManager();

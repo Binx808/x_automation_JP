@@ -1,5 +1,5 @@
 // PromptManager.gs
-// プロンプトの取得
+// プロンプト管理クラス
 class PromptManager {
   constructor() {
     this.sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("プロンプト管理");

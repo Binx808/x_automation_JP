@@ -1,5 +1,5 @@
 // TwitterPostManager.gs
-// 投稿生成とXへの投稿
+// 投稿生成・X（Twitter）投稿管理クラス
 class TwitterPostManager {
   constructor() {
     this.logSheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("投稿ログ");

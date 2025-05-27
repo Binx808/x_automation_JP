@@ -1,5 +1,5 @@
 // LicenseManager.gs
-// ライセンス認証とユーザー管理
+// ライセンス認証・制限管理クラス
 class LicenseManager {
   constructor() {
     this.sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("ライセンス管理");

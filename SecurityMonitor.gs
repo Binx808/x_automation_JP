@@ -1,5 +1,5 @@
 // SecurityMonitor.gs
-// セキュリティ監視
+// セキュリティ監視クラス
 class SecurityMonitor {
   static detectUnauthorized(requestCount) {
     if (requestCount > 10) {

@@ -1,5 +1,5 @@
 // ErrorMonitor.gs
-// エラー通知
+// エラー通知・ログ管理クラス
 class ErrorMonitor {
   static logError(error) {
     const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("エラーログ");
