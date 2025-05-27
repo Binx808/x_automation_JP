@@ -17,7 +17,7 @@ flowchart LR
     gas -->|④プロンプト取得| sheet
     sheet -->|⑤投稿生成LLM| user
     sheet -->|⑥X API投稿| user
-    user -.->|エラー時メール通知| user[ユーザー]
+    user -->|エラー時メール通知| user[ユーザー]
 ```
 
 ---
